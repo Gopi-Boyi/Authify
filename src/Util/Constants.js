@@ -1,3 +1,3 @@
-export const AppConstants= {
-    BACKEND_URL: 'http://localhost:8080/api/v1.0'
+export const AppConstants = {
+    BACKEND_URL: 'https://authify-backend-production-50ef.up.railway.app/api/v1.0'
 }
