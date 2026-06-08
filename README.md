@@ -15,7 +15,7 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](.src/screenshots/home.png)
+![Home Page][.src/screenshots/home.png]
 > Landing page shown to unauthenticated users with a call-to-action to get started.
 
 ### Login Page
