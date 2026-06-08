@@ -15,11 +15,11 @@
 ## Screenshots
 
 ### Home Page
-![Home Page][.src/screenshots/home.png]
+![Home Page](./screenshots/home.png)
 > Landing page shown to unauthenticated users with a call-to-action to get started.
 
 ### Login Page
-![Login Page](.src/screenshots/login.png)
+![Login Page](./screenshots/login.png)
 > Clean login form with email and password. Toggle between Login and Sign Up.
 
 ### Register Page
