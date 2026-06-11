@@ -160,3 +160,4 @@ VITE_API_URL=https://authify-backend-production-50ef.up.railway.app/api/v1.0
 
 **Gopi Boyi** — Java Full Stack Developer  
 GitHub: [@Gopi-Boyi](https://github.com/Gopi-Boyi)
+Linkedin :[@Gopi-Boyi](www.linkedin.com/in/gopi-boyi)
